@@ -1,6 +1,8 @@
 # RIPS
 A static source code analyser for vulnerabilities in PHP scripts
 
+can get source code from https://github.com/ripsscanner/rips
+
 ## Requirements
 * web server: Apache or Nginx recommended
 * PHP: latest version recommended
